@@ -16,7 +16,7 @@ while (not exit):
         elif x>6 or x<1 :
             exit=True
         else:
-            return (f'you are lose >>{r}<< is real number !')
+            return (f'you are lose >>{r}<< is NOT real number !')
     
     print(taas())
 
